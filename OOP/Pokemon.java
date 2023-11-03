@@ -1,4 +1,4 @@
-package assignment2;
+package assignment2.pokemon;
 
 import static java.lang.Math.round;
 import java.util.Objects;
